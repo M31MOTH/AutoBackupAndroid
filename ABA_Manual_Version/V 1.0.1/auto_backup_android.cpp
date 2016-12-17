@@ -12,7 +12,7 @@ int main()
   cin>>answer;
   if (answer=="no")
   {
-    cout<<"Press enter to open the download page for the driver (Thanks to @Snoop05)"<<endl;
+    cout<<"Press enter to open the download page for the driver (This is not my work, all Thanks to @Snoop05)"<<endl;
     system("pause");
     system("start chrome.exe http://forum.xda-developers.com/showthread.php?t=2588979");
   }
