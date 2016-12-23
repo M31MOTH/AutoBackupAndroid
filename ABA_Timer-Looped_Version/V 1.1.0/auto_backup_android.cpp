@@ -75,7 +75,7 @@ int main()
        if(select==2)
        {
          cout<<"You've selected Music"<<endl;
-         cout<<"Do you want to repeat the backup of Music daily? (at the time you've started the tool, Ctrl^C to shutdown)"<<endl;
+         cout<<"Do you want to repeat the backup of Music daily? (Ctrl^C to shutdown)"<<endl;
          cin>>repeat;
          if(repeat=="yes"||repeat=="Yes")
          {
@@ -115,7 +115,7 @@ int main()
        if(select==3)
        {
          cout<<"You've selected Bluetooth"<<endl;
-         cout<<"Do you want to repeat the backup of Bluetooth daily? (at the time you've started the tool, Ctrl^C to shutdown)"<<endl;
+         cout<<"Do you want to repeat the backup of Bluetooth daily? (Ctrl^C to shutdown)"<<endl;
          cin>>repeat;
          if(repeat=="yes"||repeat=="Yes")
          {
@@ -155,7 +155,7 @@ int main()
        if(select==4)
        {
          cout<<"You've selected WhatsApp"<<endl;
-         cout<<"Do you want to repeat the backup of WhatsApp daily? (at the time you've started the tool, Ctrl^C to shutdown)"<<endl;
+         cout<<"Do you want to repeat the backup of WhatsApp daily? (Ctrl^C to shutdown)"<<endl;
          cin>>repeat;
          if(repeat=="yes"||repeat=="Yes")
          {
@@ -195,7 +195,7 @@ int main()
        if(select==5)
        {
          cout<<"You've selected All SD Card"<<endl;
-         cout<<"Do you want to repeat the backup of All SD Card daily? (at the time you've started the tool, Ctrl^C to shutdown)"<<endl;
+         cout<<"Do you want to repeat the backup of All SD Card daily? (Ctrl^C to shutdown)"<<endl;
          cin>>repeat;
          if(repeat=="yes"||repeat=="Yes")
          {
