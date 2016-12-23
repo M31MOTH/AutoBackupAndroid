@@ -1,7 +1,7 @@
 V 1.0.0
  
  - Initlial release
- - Automatic backup of a selected folder dailu
+ - Automatic backup of a selected folder daily
  - Possibility to backup from the phone and restore to the phone:
   - Photos (DCIM Folder)
   - Music
